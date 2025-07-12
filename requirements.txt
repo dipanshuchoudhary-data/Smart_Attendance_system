@@ -1,5 +1,6 @@
 opencv-python
 face_recognition
-pandas
-streamlit
 numpy
+streamlit
+pillow
+sqlite3  # Standard lib but include for clarity
