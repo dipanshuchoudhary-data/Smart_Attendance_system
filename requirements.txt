@@ -3,4 +3,4 @@ face_recognition
 numpy
 streamlit
 pillow
-sqlite3  # Standard lib but include for clarity
+#sqlite3  # Standard lib but include for clarity
